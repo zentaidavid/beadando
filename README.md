@@ -1,8 +1,8 @@
-﻿#<b>Alkalmazások fejlesztése - beadandó dokumentáció - Zentai Dávid (YX063S)</b>
+﻿#Alkalmazások fejlesztése - beadandó dokumentáció - Zentai Dávid (YX063S)
 <p>Házikassza kezelő alkalmazás</p>
-<p><b><font size="16">Alkalmazás rövid leírása:</font></b></p>
+<p>*Alkalmazás rövid leírása:</p>
 <br>Ezzel az alkalmazással az egy háztartásban élők nyomon tudják követni a közös kasszájuk bevételeit illetve kiadásait.
-<p><b><font size="16">Funkcionális leírás:</font></b></p>
+<p>*Funkcionális leírás:</p>
 <br>A szoftverrel bejelentkezés nélkül
 <ul>
     <li>el tudjuk olvasni az oldal rövid bemutatását</li>
@@ -24,13 +24,13 @@ A szoftverrel Adminisztrátori bejelentkezés után
     <li>törölhetünk és létrehozhatunk felhasználót</li>
     <li>kiléphetünk az adminisztrátori fiókból</li>
 </ul>
-<p><b><font size="16">Nem funcionális leírás:</font></b></p>
+<p>*Nem funcionális leírás:</p>
 <ul>
     <li>Felhasználóbarát, ergonomikus elrendezés és kinézet</li>
     <li>Gyors működés</li>
     <li>Biztonságos működés: jelszavak tárolása, funkciókhoz való hozzáférés</li>
 </ul>
-<br><b><font size="16">Oldaltérkép:</font></b>
+<br>*Oldaltérkép:
 <br>Bejelentkezés nélkül elérhető:
 <ul>
     <li>Az oldal leírását tartalmazó nyitólap</li>
@@ -63,7 +63,7 @@ A szoftverrel Adminisztrátori bejelentkezés után
     <li>kilépés az Admin profilból</li>
 </ul>
 
-<br><b><font size="16">Végpontok:</font></b>
+<br>*Végpontok:
 <br>GET /: főoldal
 <br>GET /login: bejelentkezési oldal
 <br>POST /login: bejelntkezési adatok küldése
@@ -90,6 +90,6 @@ A szoftverrel Adminisztrátori bejelentkezés után
 <br>POST /logout: kijelentkezés
 
 
-<br><b><font size="16">Oldalvázlatok:</font></b>
+<br>*Oldalvázlatok:
 <br>Főoldal:
 <img src="">
