@@ -2,6 +2,7 @@
 <p><b>Házikassza kezelő alkalmazás</b></p>
 Alkalmazás rövid leírása:
 <br>Ezzel az alkalmazással az egy háztartásban élők nyomon tudják követni a közös kasszájuk bevételeit illetve kiadásait.
+
 <p><b>Funkcionális leírás:</b></p>
 <br>A szoftverrel bejelentkezés nélkül
 <ul>
@@ -24,12 +25,17 @@ A szoftverrel Adminisztrátori bejelentkezés után
     <li>törölhetünk és létrehozhatunk felhasználót</li>
     <li>kiléphetünk az adminisztrátori fiókból</li>
 </ul>
+
 <p><b>Nem funcionális leírás:</b></p>
 <ul>
-    <li>Felhasználóbarát, ergonomikus elrendezés és kinézet</li>
+    <li>Felhasználóbarátság</li>
+    <li>Ergonómia</li>
     <li>Gyors működés</li>
-    <li>Biztonságos működés: jelszavak tárolása, funkciókhoz való hozzáférés</li>
+    <li>Autentikáció</li>
+    <li>Autorizáció</li>
+    <li>Karbantartható kódok</li>
 </ul>
+
 <br>Oldaltérkép:
 <br>Bejelentkezés nélkül elérhető:
 <ul>
@@ -114,5 +120,5 @@ Főoldal:
 <br>Felhasználó módosítása (Admin):
 <img src="docs/images/users_modify.PNG">
 
-<p><b>Adatbázismodell</b></p>
+<p><b>Adatbázismodell:</b></p>
 <img src="docs/images/database_model.PNG">
