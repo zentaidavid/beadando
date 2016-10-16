@@ -36,7 +36,7 @@ A szoftverrel Adminisztrátori bejelentkezés után
     <li>Karbantartható kódok</li>
 </ul>
 
-<br>Oldaltérkép:
+<p><b>Oldaltérkép:</p></b>
 <br>Bejelentkezés nélkül elérhető:
 <ul>
     <li>Az oldal leírását tartalmazó nyitólap</li>
