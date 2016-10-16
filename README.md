@@ -67,9 +67,8 @@ A szoftverrel Adminisztrátori bejelentkezés után
 <br>GET /: főoldal
 <br>GET /login: bejelentkezési oldal
 <br>POST /login: bejelntkezési adatok küldése
-<br>GET /profile: felhasználói profil megtekintése
-<br>GET /profile/modify: profil jelszó változtatása
-<br>POST /profile/modify: profil jelszó módosítása
+<br>GET /profile: profil jelszó változtatása
+<br>POST /profile: profil jelszó módosítása
 <br>GET /proceeds: bevételek listázása
 <br>GET /proceeds/modify: bevétel módosítása
 <br>POST /proceeds/modify: bevétel módosított adatainak küldése
@@ -93,3 +92,25 @@ A szoftverrel Adminisztrátori bejelentkezés után
 <br>Oldalvázlatok:
 <br>Főoldal:
 <img src="docs/images/minemenu.PNG">
+<br>Bejelentkezési oldal:
+<img src="docs/images/login.PNG">
+<br>:Bevételek:
+<img src="docs/images/proceeds.PNG">
+<br>Bevétel hozzáadása:
+<img src="docs/images/proceeds_create.PNG">
+<br>Bevétel szerkesztése:
+<img src="docs/images/proceeds_modify.PNG">
+<br>Kiadások:
+<img src="docs/images/expenditure.PNG">
+<br>Kiadás hozzáadása:
+<img src="docs/images/expenditure_create.PNG">
+<br>Kiadás módosítása:
+<img src="docs/images/expenditure_modify.PNG">
+<br>Profil megtekintése:
+<img src="docs/images/profile.PNG">
+<br>Felhasználók listázása (Admin):
+<img src="docs/images/users.PNG">
+<br>Felhasználó hozzáadása (Admin):
+<img src="docs/images/users_create.PNG">
+<br>Felhasználó módosítása (Admin):
+<img src="docs/images/users_modify.PNG">
