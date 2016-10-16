@@ -88,7 +88,6 @@ A szoftverrel Adminisztrátori bejelentkezés után
 <br>POST /users/delete: felhasználó törlése
 <br>POST /logout: kijelentkezés
 
-
 <br>Oldalvázlatok:
 <br>Főoldal:
 <img src="docs/images/minemenu.PNG">
