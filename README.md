@@ -7,7 +7,7 @@
 <ul>
     <li>el tudjuk olvasni az oldal rövid bemutatását</li>
 </ul>
-<br>A szoftverrel bejelentkezés után
+A szoftverrel bejelentkezés után
 <ul>
     <li>megtekinthetjük profilunkat</li>
     <li>módosíthatjuk jelszavunkat</li>
@@ -16,7 +16,7 @@
     <li>hozzáadhatunk, módosíthatunk és törölhetünk kiadást</li>
     <li>kiléphetünk felhasználói fiókunkból</li>
 </ul>
-<br>A szoftverrel Adminisztrátori bejelentkezés után
+A szoftverrel Adminisztrátori bejelentkezés után
 <ul>
     <li>kilistázhatjuk a felhasználókat</li>
     <li>módosíthatjuk bármely felhasználó jelszavát</li>
