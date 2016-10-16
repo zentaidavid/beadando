@@ -1,8 +1,8 @@
 ﻿#Alkalmazások fejlesztése - beadandó dokumentáció - Zentai Dávid (YX063S)
-<p>Házikassza kezelő alkalmazás</p>
+<p><b>Házikassza kezelő alkalmazás</b></p>
 Alkalmazás rövid leírása:
 <br>Ezzel az alkalmazással az egy háztartásban élők nyomon tudják követni a közös kasszájuk bevételeit illetve kiadásait.
-<p>Funkcionális leírás:</p>
+<p><b>Funkcionális leírás:</b></p>
 <br>A szoftverrel bejelentkezés nélkül
 <ul>
     <li>el tudjuk olvasni az oldal rövid bemutatását</li>
@@ -24,7 +24,7 @@ A szoftverrel Adminisztrátori bejelentkezés után
     <li>törölhetünk és létrehozhatunk felhasználót</li>
     <li>kiléphetünk az adminisztrátori fiókból</li>
 </ul>
-<p>Nem funcionális leírás:</p>
+<p><b>Nem funcionális leírás:</b></p>
 <ul>
     <li>Felhasználóbarát, ergonomikus elrendezés és kinézet</li>
     <li>Gyors működés</li>
@@ -63,7 +63,7 @@ A szoftverrel Adminisztrátori bejelentkezés után
     <li>kilépés az Admin profilból</li>
 </ul>
 
-<br>Végpontok:
+<p><b>Végpontok:</b></p>
 <br>GET /: főoldal
 <br>GET /login: bejelentkezési oldal
 <br>POST /login: bejelntkezési adatok küldése
@@ -88,7 +88,7 @@ A szoftverrel Adminisztrátori bejelentkezés után
 <br>POST /users/delete: felhasználó törlése
 <br>POST /logout: kijelentkezés
 
-<br>Oldalvázlatok:
+<p><b>Oldalvázlatok:</b></p>
 <br>Főoldal:
 <img src="docs/images/minemenu.PNG">
 <br>Bejelentkezési oldal:
