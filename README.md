@@ -1,4 +1,4 @@
-﻿<font size="22"><b>Alkalmazások fejlesztése - beadandó dokumentáció - Zentai Dávid (YX063S)</font></b>
+﻿<font size="30"><b>Alkalmazások fejlesztése - beadandó dokumentáció - Zentai Dávid (YX063S)</font></b>
 <p>Házikassza kezelő alkalmazás</p>
 <p><font size="16"><b>Alkalmazás rövid leírása:</font></b></p>
 <br>Ezzel az alkalmazással az egy háztartásban élők nyomon tudják követni a közös kasszájuk bevételeit illetve kiadásait.
@@ -53,4 +53,13 @@ A szoftverrel Adminisztrátori bejelentkezés után
     <li>Profil megtekintése</li>
     <li>Kilépés a felhasználói fiókból</li>
 </ul>
-<br>
+<br>Adminisztátorként elérhető:
+<ul>
+    <li>Felhesználó listázása</li>
+    <ul>
+        <li>Felhasználó módosítása (jelszó)</li>
+        <li>Felhasználó törlése</li>
+        <li>Felhasználó hozzáadása</li>
+    </ul>
+    <li>kilépés az Admin profilból</li>
+</ul>
