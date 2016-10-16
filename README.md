@@ -1,8 +1,8 @@
 ﻿#Alkalmazások fejlesztése - beadandó dokumentáció - Zentai Dávid (YX063S)
 <p>Házikassza kezelő alkalmazás</p>
-*Alkalmazás rövid leírása:
+Alkalmazás rövid leírása:
 <br>Ezzel az alkalmazással az egy háztartásban élők nyomon tudják követni a közös kasszájuk bevételeit illetve kiadásait.
-<p>*Funkcionális leírás:</p>
+<p>Funkcionális leírás:</p>
 <br>A szoftverrel bejelentkezés nélkül
 <ul>
     <li>el tudjuk olvasni az oldal rövid bemutatását</li>
@@ -24,13 +24,13 @@ A szoftverrel Adminisztrátori bejelentkezés után
     <li>törölhetünk és létrehozhatunk felhasználót</li>
     <li>kiléphetünk az adminisztrátori fiókból</li>
 </ul>
-<p>*Nem funcionális leírás:</p>
+<p>Nem funcionális leírás:</p>
 <ul>
     <li>Felhasználóbarát, ergonomikus elrendezés és kinézet</li>
     <li>Gyors működés</li>
     <li>Biztonságos működés: jelszavak tárolása, funkciókhoz való hozzáférés</li>
 </ul>
-<br>*Oldaltérkép:
+<br>Oldaltérkép:
 <br>Bejelentkezés nélkül elérhető:
 <ul>
     <li>Az oldal leírását tartalmazó nyitólap</li>
@@ -63,7 +63,7 @@ A szoftverrel Adminisztrátori bejelentkezés után
     <li>kilépés az Admin profilból</li>
 </ul>
 
-<br>*Végpontok:
+<br>Végpontok:
 <br>GET /: főoldal
 <br>GET /login: bejelentkezési oldal
 <br>POST /login: bejelntkezési adatok küldése
@@ -90,6 +90,6 @@ A szoftverrel Adminisztrátori bejelentkezés után
 <br>POST /logout: kijelentkezés
 
 
-<br>*Oldalvázlatok:
+<br>Oldalvázlatok:
 <br>Főoldal:
-<img src="D:\Documents\ELTE tanulmányok\Szemeszter 5\Alkalmazások fejlesztése\beadando">
+<img src="docs/images/minemenu.png">
