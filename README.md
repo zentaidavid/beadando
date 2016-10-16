@@ -62,4 +62,29 @@ A szoftverrel Adminisztrátori bejelentkezés után
     </ul>
     <li>kilépés az Admin profilból</li>
 </ul>
-<br>
+
+<br><b><font size="16">Végpontok:</font></b>
+<br>GET /: főoldal
+<br>GET /login: bejelentkezési oldal
+<br>POST /login: bejelntkezési adatok küldése
+<br>GET /profile: felhasználói profil megtekintése
+<br>GET /profile/modify: profil jelszó változtatása
+<br>POST /profile/modify: profil jelszó módosítása
+<br>GET /proceeds: bevételek listázása
+<br>GET /proceeds/modify: bevétel módosítása
+<br>POST /proceeds/modify: bevétel módosított adatainak küldése
+<br>GET /proceeds/create: új bevétel hozzáadása
+<br>POST /proceeds/create: új bevétel adatainak küldése
+<br>GET /expenditure: kiadások listázása
+<br>GET /expenditure/modify: kiadások módosítása
+<br>POST /expenditure/modify: kiadások módosított adatainak elküldése
+<br>GET /expenditure/create: új kiadás hozzáadása
+<br>POST /expenditure/create: új kiadás adatainak küldése
+<br>POST /expenditure/delete: kiadás törlése
+<br>GET /users: felhasználók listázása
+<br>GET /users/modify: felhasználó adatainak módosítása
+<br>POST /users/modify: felhasználó módosított adatainak elküldése
+<br>GET /users/create: új felhasználó hozzáadása
+<br>POST /users/create: új felhasználó adatainak küldése
+<br>POST /users/delete: felhasználó törlése
+<br>POST /logout: kijelentkezés
