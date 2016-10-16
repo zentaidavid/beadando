@@ -92,4 +92,4 @@ A szoftverrel Adminisztrátori bejelentkezés után
 
 <br>*Oldalvázlatok:
 <br>Főoldal:
-<img src="">
+<img src="D:\Documents\ELTE tanulmányok\Szemeszter 5\Alkalmazások fejlesztése\beadando">
