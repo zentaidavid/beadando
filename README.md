@@ -1,8 +1,8 @@
-﻿Alkalmazások fejlesztése - beadandó dokumentáció - Zentai Dávid (YX063S)
-<p>Házikassza kezelő alkalmazás
-<p>Alkalmazás rövid leírása:
+﻿<p1>Alkalmazások fejlesztése - beadandó dokumentáció - Zentai Dávid (YX063S)</p1>
+<p>Házikassza kezelő alkalmazás</p>
+<p>Alkalmazás rövid leírása:</p>
 <br>Ezzel az alkalmazással az egy háztartásban élők nyomon tudják követni a közös kasszájuk bevételeit illetve kiadásait.
-<p>Funkcionális leírás:
+<p>Funkcionális leírás:</p>
 <br>A szoftverrel bejelentkezés nélkül
 <ul>
     <li>el tudjuk olvasni az oldal rövid bemutatását</li>
@@ -12,7 +12,8 @@ A szoftverrel bejelentkezés után
     <li>megtekinthetjük profilunkat</li>
     <li>módosíthatjuk jelszavunkat</li>
     <li>kilistázhatjuk a bevételeket, illetve a kiadásokat</li>
-    <li>hozzáadhatunk, módosíthatunk bevételt</li>
+    <li>hozzáadhatunk bevételt</li>
+    <li>módosíthatunk saját bevételt</li>
     <li>hozzáadhatunk, módosíthatunk és törölhetünk kiadást</li>
     <li>kiléphetünk felhasználói fiókunkból</li>
 </ul>
@@ -22,4 +23,26 @@ A szoftverrel Adminisztrátori bejelentkezés után
     <li>módosíthatjuk bármely felhasználó jelszavát</li>
     <li>törölhetünk és létrehozhatunk felhasználót</li>
     <li>kiléphetünk az adminisztrátori fiókból</li>
+</ul>
+<p>Nem funcionális leírás:</p>
+<br>Oldaltérkép:
+<br>Bejelentkezés nélkül elérhető:
+<ul>
+    <li>Az oldal leírását tartalmazó nyitólap</li>
+    <li>Bejelentkezési oldal</li>
+</ul>
+<br>Felhasználóként elérhető:
+<ul>
+    <li>Bevételek listázása</li>
+    <ul>
+        <li>Saját bevétel módosítása</li>
+        <li>Bevétel hozzáadása</li>
+    </ul>
+    <li>Kiadások listázása</li>
+    <ul>
+        <li>Saját kiadás módosítása</li>
+        <li>Kiadás hozzáadása</li>
+        <li>Saját kiadás törlése</li>
+    </ul>
+    <li>Kilépés a felhasználói fiókból</li>
 </ul>
