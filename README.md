@@ -64,7 +64,7 @@ A szoftverrel Adminisztrátori bejelentkezés után
 </ul>
 
 <p><b>Végpontok:</b></p>
-<br>GET /: főoldal
+GET /: főoldal
 <br>GET /login: bejelentkezési oldal
 <br>POST /login: bejelntkezési adatok küldése
 <br>GET /profile: profil jelszó változtatása
@@ -89,7 +89,7 @@ A szoftverrel Adminisztrátori bejelentkezés után
 <br>POST /logout: kijelentkezés
 
 <p><b>Oldalvázlatok:</b></p>
-<br>Főoldal:
+Főoldal:
 <img src="docs/images/minemenu.PNG">
 <br>Bejelentkezési oldal:
 <img src="docs/images/login.PNG">
@@ -113,3 +113,6 @@ A szoftverrel Adminisztrátori bejelentkezés után
 <img src="docs/images/users_create.PNG">
 <br>Felhasználó módosítása (Admin):
 <img src="docs/images/users_modify.PNG">
+
+<p><b>Adatbázismodell</b></p>
+<img src="docs/images/database_model">
