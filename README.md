@@ -92,4 +92,4 @@ A szoftverrel Adminisztrátori bejelentkezés után
 
 <br>Oldalvázlatok:
 <br>Főoldal:
-<img src="docs/images/minemenu.png">
+<img src="docs/images/minemenu.PNG">
