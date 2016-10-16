@@ -1,4 +1,4 @@
-﻿<font size="30"><b>Alkalmazások fejlesztése - beadandó dokumentáció - Zentai Dávid (YX063S)</font></b>
+﻿<font size=30><b>Alkalmazások fejlesztése - beadandó dokumentáció - Zentai Dávid (YX063S)</font></b>
 <p>Házikassza kezelő alkalmazás</p>
 <p><b><font size="16">Alkalmazás rövid leírása:</font></b></p>
 <br>Ezzel az alkalmazással az egy háztartásban élők nyomon tudják követni a közös kasszájuk bevételeit illetve kiadásait.
