@@ -1,2 +1,2 @@
-<p>Alkalmazások fejlesztése - beadandó dokumentáció
+﻿Alkalmazások fejlesztése - beadandó dokumentáció
 <p>Házikassza kezelő alkalmazás
