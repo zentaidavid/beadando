@@ -115,4 +115,4 @@ Főoldal:
 <img src="docs/images/users_modify.PNG">
 
 <p><b>Adatbázismodell</b></p>
-<img src="docs/images/database_model">
+<img src="docs/images/database_model.PNG">
